@@ -1,0 +1,29 @@
+[ ] Quelle difference fais-tu entre Git et GitHub/GitLab ?
+git et un programme et github / gitlab sont des archives en ligne des depots git
+
+[ ] Que signifie staging area ? Quelle commande permet d’ajouter un fichier au staging ?
+modification avant le commit "git add "fichier"
+
+[ ] Que montrent git status, git diff et git log ?
+git status = status des fichiers si ils ont été modifié ou pas / git diff = montre les différence des fichier qui ne sont pas encore commit / git log = historique des commits
+
+[ ] Pourquoi faire des petits commits plutot qu’un gros commit final ?
+plus simple a modifié au cas ou il y'aurait une erreur
+
+[ ] Quelle est la difference entre stdout et stderr ?
+stdout = sortie terminal normal / stderr = sortie terminal erreur
+
+[ ] Que fait la commande : ls /tmp /inexistant > out.txt 2> err.txt ?
+mets la sortie de /tmp dans out.txt
+
+[ ] Que signifie 2>&1 ?
+mets la sortie standard de la terminale dans le meme fichier que la sortie erreur
+
+[ ] Quelle difference entre > et >> 
+">" va écraser le fichier ou crée un fichier avec du texte dedans / ">>" va rajouter du contenu a un fichier
+
+[ ] A quoi sert tee ?
+lit l'entrée normal l'ecrit dans un fichier et sur la sortie normal
+
+[ ] Pourquoi est-il dangereux de lancer une commande curl | sh sans verifier la source ?
+risque de malware
