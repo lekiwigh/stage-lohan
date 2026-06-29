@@ -1,0 +1,1 @@
+ls: impossible d'accéder à '/dossier_inexistant' : Aucun fichier ou répertoire de ce type

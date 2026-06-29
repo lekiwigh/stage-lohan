@@ -1,0 +1,8 @@
+{
+"project": "stage-lohan",
+"services": [
+{"name": "web", "status": "ok", "port": 8080},
+{"name": "api", "status": "ko", "port": 5000},
+{"name": "db", "status": "ok", "port": 5432}
+]
+}

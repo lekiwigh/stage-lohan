@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x 4 lohan lohan 4096 Jun 29 14:02 .
+drwxrwxr-x 3 lohan lohan 4096 Jun 29 11:08 ..
+drwxrwxr-x 7 lohan lohan 4096 Jun 29 11:41 .git
+-rw-rw-r-- 1 lohan lohan  138 Jun 29 11:27 README.MD
+-rw-rw-r-- 1 lohan lohan   64 Jun 29 14:01 app.log
+drwxrwxr-x 3 lohan lohan 4096 Jun 29 13:59 exercices
+-rw-rw-r-- 1 lohan lohan   13 Jun 29 11:12 git-notes.md
+-rw-rw-r-- 1 lohan lohan    0 Jun 29 14:02 listing.txt
+-rw-rw-r-- 1 lohan lohan   99 Jun 29 11:41 terminal-exercices.md
+-rw-rw-r-- 1 lohan lohan    5 Jun 29 12:05 toto

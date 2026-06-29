@@ -1,0 +1,6 @@
+OK boot 
+WARN config
+ERROR disk
+OK ready
+ERROR network
+OK retry

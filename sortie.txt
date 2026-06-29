@@ -1,0 +1,15 @@
+/tmp:
+mcp-kGulqw
+mcp-yIF88Y
+snap-private-tmp
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-ModemManager.service-CpBfvv
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-bluetooth.service-5zzGND
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-chrony.service-vzwUzt
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-colord.service-xFoOkc
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-fwupd.service-N1vcdq
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-polkit.service-NF4RSR
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-power-profiles-daemon.service-Je68IZ
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-switcheroo-control.service-1KQPxl
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-systemd-logind.service-M8oCvz
+systemd-private-3227f39f8bd24c3da22962f5138bbd78-upower.service-Y7tzxG
+vscode-typescript1000
